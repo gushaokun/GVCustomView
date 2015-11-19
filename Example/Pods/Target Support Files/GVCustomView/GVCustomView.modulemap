@@ -1,0 +1,6 @@
+framework module GVCustomView {
+  umbrella header "GVCustomView-umbrella.h"
+
+  export *
+  module * { export * }
+}

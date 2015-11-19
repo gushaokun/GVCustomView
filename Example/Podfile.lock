@@ -1,0 +1,14 @@
+PODS:
+  - GVCustomView (1.0.0)
+
+DEPENDENCIES:
+  - GVCustomView (from `../`)
+
+EXTERNAL SOURCES:
+  GVCustomView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  GVCustomView: d6287d65b522e7226ec1661b6925af162b178fa3
+
+COCOAPODS: 0.38.2
