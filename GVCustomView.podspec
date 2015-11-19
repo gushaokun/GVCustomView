@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "GVCustomView"
-  s.version          = "1.0.0"
+  s.version          = "1.0.2"
   s.summary          = "Some of their own custom View has not that after transformation, will slowly update"
 
 # This description is used to generate tags and improve search results.
